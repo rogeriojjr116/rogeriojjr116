@@ -1,6 +1,6 @@
 ![imagem](https://github.com/rogeriojjr116/rogeriojjr116/blob/main/gif.gif?raw=true)
 
-### Hi there 👋
+### ola seu jogador de free fire 👋
 
 <!--
 **rogeriojjr116/rogeriojjr116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
