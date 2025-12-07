@@ -25,6 +25,4 @@ Me tornar um desenvolvedor sólido e preparado para desafios reais do mercado, c
 
 ---
 
-![VisitorCount](https://profile-counter.glitch.me/{devcode25}/count.svg)
-
 
