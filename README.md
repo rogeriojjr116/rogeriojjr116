@@ -21,7 +21,7 @@ Busco evoluir minhas habilidades através de projetos práticos, colaboração e
 ---
 
 ### 📌 Objetivo
-Me tornar um desenvolvedor sólido e preparado para desafios reais do mercado, construindo experiência e conhecimento a cada commit.
+Construir uma carreira sólida como desenvolvedor e no futuro, atuar na área de **computação quântica**, contribuindo com tecnologias avançadas e soluções inovadoras.
 
 ---
 
