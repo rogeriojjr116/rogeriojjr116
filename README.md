@@ -3,6 +3,7 @@
 ### Olá, Bem-vindo ao Meu Perfil 👋
 
 # [Rogério Jota] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+<img src="https://img.shields.io/static/v1?label=Overview&message=RogerioJota&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?
 
