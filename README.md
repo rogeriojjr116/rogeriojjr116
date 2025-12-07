@@ -13,9 +13,7 @@ Busco evoluir minhas habilidades através de projetos práticos, colaboração e
 ---
 
 ### 🎯 O que estou aprendendo
-- Java e Programação Orientada a Objetos  
-- Lógica de Programação  
-- Fundamentos de Git e GitHub  
+- Java e Programação Orientada a Objetos    
 - Conceitos iniciais de computação quântica e IA  
 
 ---
